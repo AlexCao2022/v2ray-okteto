@@ -7,7 +7,7 @@
       "settings": {
         "clients": [
           {
-            "id": "f011c012-5f1d-418c-9494-d24d77a9d8f9",
+            "id": "d4dfe1d1-c628-441a-9b95-293190b97437",
             "alterId": 520
           }
         ]
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-        "path": "/xiaonuo"
+        "path": "/blog"
         }
       }
     }
